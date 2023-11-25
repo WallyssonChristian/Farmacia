@@ -1,4 +1,4 @@
-package model.produto;
+package farmacia.model;
 
 public class Medicamento extends Produto {
 
